@@ -3,4 +3,4 @@
 * **build** - собрать программу
 * **clear** - удалить полученные командой **build** файлы
 
-файл **functions.asm** взят с репозитория https://github.com/DGivney/assemblytutorials.git
+файл **functions.asm** взят из обучающего репозитория https://github.com/DGivney/assemblytutorials.git
