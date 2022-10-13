@@ -1,6 +1,6 @@
-## Калькулятор на NASM
-Команды для make:
-* **build** - собрать программу
-* **clear** - удалить полученные командой **build** файлы
+## NASM Calculator
+Make comands:
+* **build** - build the programm
+* **clear** - clear build files
 
-файл **functions.asm** взят из обучающего репозитория https://github.com/DGivney/assemblytutorials.git
+![image](https://user-images.githubusercontent.com/46642788/195494645-74e105d3-9b53-4418-8d70-53bbe9d06426.png)
