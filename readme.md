@@ -1,4 +1,6 @@
 ## NASM Calculator
+Excecutes addition, subtraction, multiplication and division with a remainder.
+
 Make comands:
 * **build** - build the programm
 * **clear** - clear build files
